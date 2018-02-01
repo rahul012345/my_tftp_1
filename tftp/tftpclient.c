@@ -171,4 +171,5 @@ int main(int argc, char *argv[])
     //print usage
   }
   printf("Usage: %s [-p port] (-w putfile || -r getFile)\n",argv[0]);
+  printf("END OF FILE")
 }
