@@ -1,0 +1,4 @@
+*.swp
+tftpclient
+tftpserver
+recv/*
